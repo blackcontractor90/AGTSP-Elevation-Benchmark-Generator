@@ -2,8 +2,6 @@
 
 A modular Java framework for generating reproducible **Asymmetric Generalized Traveling Salesman Problem (AGTSP)** benchmark instances with elevation-driven cost asymmetry, intended for terrain-aware routing research in EV and UAV last-mile delivery logistics.
 
-Companion repository for:
-> Morsidi, F., Ariffin, A.H., & Abdul Wahid, R. "A Systematic Framework for Generating Asymmetric Generalized Traveling Salesman Problem Instances with Elevation-Based Cost Asymmetry." *Journal of Advanced Manufacturing Technology (JAMT).*
 
 ---
 
