@@ -309,7 +309,7 @@ If you use this benchmark suite or generator in your research, please cite:
 
 ## Contact
 
-**Asma Hanee Ariffin** (Corresponding Author)
-asma@meta.upsi.edu.my
+**Farid Morsidi ** (First Author)
+farid_m2mfan@yahoo.com.my
 Computing Department, Faculty of Computing & Meta-Technology
 Universiti Pendidikan Sultan Idris, 35900 Tanjong Malim, Perak, Malaysia
